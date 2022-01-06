@@ -1,6 +1,7 @@
 # NLP-DisasterTweets
  ## Natural Language Processing with Disaster Tweets
 
+![Proje Görseli](https://user-images.githubusercontent.com/57104731/148373184-cfaf89a4-0fb8-4a66-9877-eba6127661b6.png)
 ### Özet
 Twitter, günümüzde dünyada ve ülkemizde acil durumlarda önemli bir iletişim kanalı haline geldi.
 Akıllı telefonların her yerde bulunması, sosyal medya kullanımının artması, insanların gözlemlediği bir acil durumu anlık olarak insanlara duyurmasını sağlıyor. Bu yüzden ajanslar, haber kanalları, çeşitli kuruluşlar Twitter’ı etkin ve programlı bir şekilde kullanıyor. Bu sebepten dolayı yapılan bir paylaşım çok hızlı bir şekilde etkileşim alarak Twitter tabiri ile “trendtopic” olarak gündem haline gelebiliyor.
